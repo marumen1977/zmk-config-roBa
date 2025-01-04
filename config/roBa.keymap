@@ -17,7 +17,7 @@
         compatible = "zmk,combos";
 
         test {
-            bindings = <&mkp MCLK>;
+            bindings = <&mkp MB3>;
             key-positions = <32 31>;
         };
     };
