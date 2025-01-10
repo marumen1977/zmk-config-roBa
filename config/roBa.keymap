@@ -70,7 +70,7 @@
         SYMBOL {
             bindings = <
 &kp EXCLAMATION  &kp DOUBLE_QUOTES  &kp HASH  &kp DOLLAR  &kp PERCENT                         &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS    &mt EQUAL MINUS     &mt TILDE LCTRL  &mt PIPE INT_YEN
-&trans           &trans             &trans    &trans      &kp AMPERSAND  &trans      &kp SQT  &trans                &kp SEMICOLON            &kp COLON           &kp AT_SIGN      &kp LEFT_BRACKET
+&trans           &trans             &trans    &trans      &kp AMPERSAND  &trans      &kp SQT  &trans                &mt PLUS SEMICOLON       &mt ASTERISK COLON  &kp AT_SIGN      &kp LEFT_BRACKET
 &trans           &trans             &trans    &trans      &trans         &trans      &trans   &mt LESS_THAN COMMA   &mt GREATER_THAN PERIOD  &mt QUESTION SLASH  &kp UNDERSCORE   &kp RIGHT_BRACKET
 &trans           &trans             &trans    &trans      &trans         &trans      &trans   &trans                                                                              &trans
             >;
