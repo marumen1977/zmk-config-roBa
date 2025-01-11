@@ -56,7 +56,7 @@
 &kp Q      &kp W         &kp E         &kp R                 &kp T                                                    &kp Y          &kp U  &lt 6 I   &kp O     &kp P
 &kp A      &kp S         &kp D         &kp F                 &kp G        &kp LS(LG(S))               &kp MINUS       &kp H          &kp J  &kp K     &kp L     &kp ENTER
 &kp Z      &kp X         &kp C         &kp V                 &kp B        &kp COLON                   &kp SEMICOLON   &kp N          &kp M  &mkp MB1  &mkp MB2  &kp RIGHT_SHIFT
-&kp LCTRL  &kp LEFT_ALT  &kp LEFT_WIN  &lt_to_layer_0 1 TAB  &lt 2 LANG2  &lt_to_layer_0 5 SPACE      &kp LANGUAGE_1  &kp BACKSPACE                             &kp ESCAPE
+&kp LCTRL  &kp LEFT_ALT  &kp LEFT_WIN  &to_layer_0 NUMBER_1  &lt 2 LANG2  &lt_to_layer_0 5 SPACE      &kp LANGUAGE_1  &kp BACKSPACE                             &kp ESCAPE
             >;
 
             sensor-bindings = <&inc_dec_kp PAGE_UP PAGE_DOWN>;
